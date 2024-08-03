@@ -36,11 +36,6 @@ If you’re interested in what I’ve been up to, check out my Linkedin Posts:
 Feel free to reach out to me:
 - 📧 **Email**: [robbielbundy@gmail.com](mailto:robbielbundy@gmail.com)
 - 🔗 **LinkedIn**: [Rob-Bundy](https://www.linkedin.com/in/rob-bundy-192035223/)
-
-
-## 🎨 My Personal Banner
-![Personal Banner](https://github.com/RobBundy2002/Website/blob/master/github-header-image%20(10).png)
-
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or just want to connect.
