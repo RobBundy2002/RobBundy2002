@@ -39,7 +39,7 @@ Feel free to reach out to me:
 
 
 ## 🎨 My Personal Banner
-![Personal Banner](https://your-image-url.com/banner.png)
+![Personal Banner](C:\Users\robbi\Downloads\github-header-image.png)
 
 ---
 
