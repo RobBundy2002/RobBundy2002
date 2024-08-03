@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 
 ## 📝 Latest Blog Posts
 If you’re interested in what I’ve been up to, check out my Linkedin Posts:
-- [**Internship Announcement**](link-to-blog-post) - Announcement of my impending start at GA-CCRI.
+- [**Internship Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_i-am-thrilled-to-announce-that-i-will-be-activity-7189695070097285120-JGvI?utm_source=share&utm_medium=member_desktop) - Announcement of my impending start at GA-CCRI.
 - [**Internship Conclusion**](link-to-blog-post) - Summary of my work at GA-CCRI and a thank you to those who helped me throughout the summer.
 
 ## 📫 Get in Touch
@@ -39,7 +39,7 @@ Feel free to reach out to me:
 
 
 ## 🎨 My Personal Banner
-![Personal Banner](C:\Users\robbi\Downloads\github-header-image.png)
+![Personal Banner](https://github.com/RobBundy2002/Website/blob/master/github-header-image%20(10).png)
 
 ---
 
