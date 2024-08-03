@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 - **Frameworks**: React, Node.js
 
 ## 📊 GitHub Stats
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+![Rob's GitHub stats](![RobBundy2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## 📝 Latest Blog Posts
 If you’re interested in what I’ve been up to, check out my Linkedin Posts:
