@@ -30,12 +30,12 @@ Here are some of the projects I've worked on:
 ## 📝 Latest Blog Posts
 If you’re interested in what I’ve been up to, check out my Linkedin Posts:
 - [**Internship Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_i-am-thrilled-to-announce-that-i-will-be-activity-7189695070097285120-JGvI?utm_source=share&utm_medium=member_desktop) - Announcement of my impending start at GA-CCRI.
-- [**Internship Conclusion**](link-to-blog-post) - Summary of my work at GA-CCRI and a thank you to those who helped me throughout the summer.
+- [**Internship Conclusion**](https://www.linkedin.com/posts/rob-bundy-192035223_as-my-summer-internship-came-to-an-end-last-activity-7228786819348246535-B4aM?utm_source=share&utm_medium=member_desktop) - Thank you to those who helped me throughout the summer at GA-CCRi and internship conclusion post.
 
 ## 📫 Get in Touch
 Feel free to reach out to me:
 - 📧 **Email**: [robbielbundy@gmail.com](mailto:robbielbundy@gmail.com)
-- 🔗 **LinkedIn**: [Rob-Bundy](https://www.linkedin.com/in/rob-bundy-192035223/)
+- 🔗 **LinkedIn**: [Rob-Bundy](https://www.linkedin.com/in/rob-bundy-19035223/)
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or just want to connect.
