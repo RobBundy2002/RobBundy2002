@@ -13,7 +13,7 @@ Here are some of the projects I've worked on:
 
 - [**College Hoops Matrix Madness**](https://matrix-madness-frontend.onrender.com/) - Web App Game built with React.js that serves as a college basketball version of the popular immaculate grid game. (Note site's Grids are defunct until better host can be found, but upon request custom grids can be given to view).
 - [**Celestial Arcade**](https://robbundy2002.github.io/Gaming-Website-Project/) - Web App Page built with React.js that serves as a landing page for lot's of children's games such as Rock,Paper,Scissors and Connect 4.
-- [**What's In Your Fridge**](https://github.com/RobBundy2002/AppIdea) - Mobile app built to eventually be imported to the IOS app store. Uses a SQLite backend database for both usernames and passwords, and currently has 300+ Recipes built in to view regardless of your ingredients.
+- [**Proverbial Plates**](https://github.com/RobBundy2002/AppIdea) - Mobile app built to eventually be imported to the IOS app store. Uses a SQLite backend database for both usernames and passwords, and currently has 300+ Recipes built in to view regardless of your ingredients.
 
 ## 🛠️ Skills
 - **General Purpose Programming Languages**: Python, Java, C
