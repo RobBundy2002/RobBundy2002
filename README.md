@@ -3,9 +3,9 @@
 Welcome to my GitHub profile. I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here’s a bit about me:
 
 ## 🚀 About Me
-- 💻 **Current Role**: 4th Year Computer Science Student at the University of Virginia and Teaching Assistant for CS1112,CS2100, and CS3710
+- 💻 **Current Role**: 4th Year Computer Science Student at the University of Virginia and Teaching Assistant for CS1112,CS3205, and CS3710
 - 🌍 **Location**: Charlottesville, Virginia
-- 🔭 **Currently working on**: What's In Your Kitchen? -> A Mobile Application that Curates Recipes Based On the Ingredients that you have readily available in your kitchen
+- 🔭 **Currently working on**: Proverbial Plates? -> A Mobile Application that Curates Recipes Based On the Ingredients that you have readily available in your kitchen
 - 🌱 **Learning**: SQL and the Best Ways to Implement it for the Proverbial Plates Application
 
 ## 📚 Featured Projects
