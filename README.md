@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 - [**Proverbial Plates**](https://github.com/RobBundy2002/AppIdea) - Mobile app built to eventually be imported to the IOS app store. Uses a SQLite backend database for both usernames and passwords, and currently has 300+ Recipes built in to view regardless of your ingredients.
 
 ## 🛠️ Skills
-- **General Purpose Programming Languages**: Python, Java, C
+- **General Purpose Programming Languages**: Python, Java, C, C#
 - **Web Development Programming Languages**: JavaScript, HTML, CSS
 - **Scripting Languages**: Bash
 - **Query Languages**: SQLite, SQL
