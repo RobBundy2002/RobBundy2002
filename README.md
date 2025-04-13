@@ -27,7 +27,16 @@ Here are some of the projects I've worked on:
 ## 📊 GitHub Stats
 ![RobBundy2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ## 🏆 Top Repositories
-[![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&theme=dracula&show_icons=true&count_private=true&hide_border=true)](https://github.com/RobBundy2002)
+## 📊 GitHub Stats
+![RobBundy2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobBundy2002&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=dracula)
+## 🌱 Contribution Streak
+![RobBundy2002's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobBundy2002&theme=dracula&hide_border=true)
+## 🗣️ Most Used Languages
+![RobBundy2002's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&layout=compact&theme=dracula&hide_border=true)
+## 📅 Recent GitHub Activity
+![RobBundy2002's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RobBundy2002&theme=dracula&hide_border=true)
+## 🏆 GitHub Trophies
+![RobBundy2002's Trophies](https://github-profile-trophy.vercel.app/?username=RobBundy2002&theme=dracula&no-frame=true&no-bg=true)
 
 ## 📝 Latest Blog Posts
 If you’re interested in what I’ve been up to, check out my Linkedin Posts:
