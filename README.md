@@ -5,8 +5,8 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for creatin
 ## 🚀 About Me
 - 💻 **Current Role**: 4th Year Computer Science Student at the University of Virginia and Teaching Assistant for CS1112,CS2100, and CS3710
 - 🌍 **Location**: Charlottesville, Virginia
-- 🔭 **Currently working on**: Proverbial Plates? -> A Mobile Application that Curates Recipes Based On the Ingredients that you have readily available in your kitchen
-- 🌱 **Learning**: Data Persistence for the Proverbial Plates Application
+- 🔭 **Currently working on**: A GB Studio Vampire Platformer for SLAV2500
+- 🌱 **Learning**: Machine Learning Principles and Balanced K-Fold Cross Validation
 
 ## 📚 Featured Projects
 Here are some of the projects I've worked on:
@@ -26,11 +26,13 @@ Here are some of the projects I've worked on:
 
 ## 📊 GitHub Stats
 ![RobBundy2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+## 🏆 Top Repositories
+[![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=RobBundy2002&theme=dracula&show_icons=true&count_private=true&hide_border=true)](https://github.com/RobBundy2002)
 
 ## 📝 Latest Blog Posts
 If you’re interested in what I’ve been up to, check out my Linkedin Posts:
-- [**Internship Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_i-am-thrilled-to-announce-that-i-will-be-activity-7189695070097285120-JGvI?utm_source=share&utm_medium=member_desktop) - Announcement of my impending start at GA-CCRI.
-- [**Internship Conclusion**](https://www.linkedin.com/posts/rob-bundy-192035223_as-my-summer-internship-came-to-an-end-last-activity-7228786819348246535-B4aM?utm_source=share&utm_medium=member_desktop) - Thank you to those who helped me throughout the summer at GA-CCRi and internship conclusion post.
+- [**Internship Announcement**](https://www.linkedin.com/posts/rob-bundy-192035223_i-am-thrilled-to-announce-that-i-will-be-activity-7189695070097285120-JGvI?utm_source=share&utm_medium=member_desktop) - Announcement of my impending start at GA-I3.
+- [**Internship Conclusion**](https://www.linkedin.com/posts/rob-bundy-192035223_as-my-summer-internship-came-to-an-end-last-activity-7228786819348246535-B4aM?utm_source=share&utm_medium=member_desktop) - Thank you to those who helped me throughout the summer at GA-I3 and internship conclusion post.
 
 ## 📫 Get in Touch
 Feel free to reach out to me:
