@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I’m a software engineer passionate about creatin
   - M.S. in Computer Science (HCI Concentration) – *Georgia Institute of Technology*, Expected Dec 2028
 - 🌍 **Location**: Charlottesville, Virginia
 - 🔭 **Currently Working On**:
-  - Full-stack mobile app design for recipe/meal planning
   - ML-based stock price predictor side project with live API integration
 - 🌱 **Learning**: Human-centered design, scalable systems, and advanced ML techniques
 
